@@ -24,7 +24,7 @@ environment = []
 services = []
 recommend = []
 
-num = {'hs-OEEp': 0, 'hs-4Enz': 2, 'hs-GOYR': 3, 'hs-61V1': 4, 'hs-SzzZ': 5, 'hs-VYVW': 6, 'hs-tQlR': 7, 'hs-LNui': 8, 'hs-42CK': 9}
+num = {'klu3g': 0, 'klxpf': 2, 'kl7en': 3, 'klcvr': 4, 'kle93': 5, 'klftb': 6, 'klpze': 7, 'klnw7': 8, 'klfg6': 9}
 def detail_number(htm):
     try:
         a = str(htm)
